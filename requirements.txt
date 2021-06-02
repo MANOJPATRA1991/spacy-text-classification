@@ -62,7 +62,7 @@ thinc==7.0.8
 torch==1.0.1
 torchcontrib==0.0.2
 tqdm==4.33.0
-urllib3==1.24.3
+urllib3==1.26.5
 wasabi==0.2.2
 wcwidth==0.1.7
 wrapt==1.11.2
